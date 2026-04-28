@@ -6,7 +6,7 @@ export default defineConfig({
   build: {
     outDir: "dist-player",
     rollupOptions: {
-      input: "player.html",
+      input: "index.html",
     },
   },
 });
